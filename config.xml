@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Instala y Configura Aplicacion y Sotfware</name>
+    <name>Dia de Muertos</name>
 
     <description>
-        Ejemplo de Aplicacion en la clase de ICAS
+       Dia de muertos. 
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
